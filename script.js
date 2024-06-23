@@ -188,7 +188,7 @@ function checkWin() {
 // Button action to navigate to another page
 nextPageButton.addEventListener('click', function() {
     // Replace 'choose_princess.html' with the actual path of your next HTML page
-    window.location.href = 'http://localhost:63342/pythonProject7/newweb/choose_princess.html';
+    window.location.href = 'https://yacseles.github.io/aghh/';
 });
 
 
